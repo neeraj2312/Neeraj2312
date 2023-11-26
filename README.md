@@ -5,11 +5,11 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dugu0011&label=Profile%20views&color=0e75b6&style=flat" alt="dugu0011" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dugu0011&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj2312" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dugu0011" alt="dugu0011" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neeraj2312" alt="neeraj2312" /></a> </p>
 
-<p align="right"> <a href="https://twitter.com/dugu999" target="blank"><img src="https://img.shields.io/twitter/follow/dugu999?logo=twitter&style=for-the-badge" alt="dugu999" /></a> </p>
+<p align="right"> <a href="https://twitter.com/neerajj12593021" target="blank"><img src="https://img.shields.io/twitter/follow/neerajj12593021?logo=twitter&style=for-the-badge" alt="neerajj12593021" /></a> </p>
 <img  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="Coding" align="right" width="400" style="margin-top: 300;" >
 
 - 🔭 I’m currently working on *Data Center project*

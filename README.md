@@ -14,17 +14,11 @@
 
 - 🔭 I’m currently working on *Data Center project*
 
-- 🌱 I’m currently learning *Django,Python,Mysql AWS, HTML CS JS*
+- 🌱 I’m currently learning *C++,Python,Mysql AWS, HTML CS JS*
 
-- 👨‍💻 All of my projects are available at [www.dugu.me/dugu0011](www.dugu.me/dugu0011)
+- 💬 Ask me about *C++,react,python,Mysql,html,css,js*
 
-- 📝 I regularly write articles on [https://www.dugu.me](https://www.dugu.me)
-
-- 💬 Ask me about *react,django,python,Mysql,html,css,js*
-
-- 📫 How to reach me *contact@dugu.me*
-
-- 📄 Know about my experiences [https://www.dugu.me](https://www.dugu.me)
+- 📫 How to reach me *jangraneeraj83@gmail.com*
 
 - ⚡ Fun fact *I am shy until you get to know me*
 
